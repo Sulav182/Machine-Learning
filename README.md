@@ -1,3 +1,3 @@
 # Machine-Learning
-Machine Learning project for software engineering 
-Applying different machine learning algorithms and emsembling them.
+Machine Learning.
+Applying different machine learning algorithms on data sets and predicting the results.
